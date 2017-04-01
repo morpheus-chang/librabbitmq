@@ -2,7 +2,7 @@
 RABBIT_DIR=rabbitmq-c
 CODEGEN_DIR=rabbitmq-codegen
 RABBIT_TARGET=clib
-RABBIT_DIST=rabbitmq-c-0.5.3
+RABBIT_DIST=rabbitmq-c-0.8.0
 
 # Distribuition tools
 PYTHON=python
