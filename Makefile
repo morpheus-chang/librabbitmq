@@ -10,7 +10,7 @@ PYTHON=python
 all: build
 
 add-submodules:
-	-git submodule add https://github.com/ask/rabbitmq-c.git
+	-git submodule add https://github.com/alanxz/rabbitmq-c
 	-git submodule add https://github.com/rabbitmq/rabbitmq-codegen
 
 submodules:
